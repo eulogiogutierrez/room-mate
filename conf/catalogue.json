@@ -1,0 +1,77 @@
+[
+  {
+    "name": "Room 1",
+    "capacity": 5,
+    "equipment": {
+      "chair": true,
+      "table": false,
+      "desk": true,
+      "tv": false,
+      "whiteboard": true,
+      "projector": false,
+      "phone": true,
+      "sofa": true
+    },
+    "colour": "blue"
+  },
+  {
+    "name": "Room 2",
+    "capacity": 10,
+    "equipment": {
+      "chair": false,
+      "table": true,
+      "desk": false,
+      "tv": true,
+      "whiteboard": false,
+      "projector": true,
+      "phone": false,
+      "sofa": false
+    },
+    "colour": "red"
+  },
+  {
+    "name": "Room 3",
+    "capacity": 4,
+    "equipment": {
+      "chair": false,
+      "table": false,
+      "desk": false,
+      "tv": true,
+      "whiteboard": true,
+      "projector": true,
+      "phone": true,
+      "sofa": true
+    },
+    "colour": "teal"
+  },
+  {
+    "name": "Room 4",
+    "capacity": 6,
+    "equipment": {
+      "chair": false,
+      "table": true,
+      "desk": false,
+      "tv": false,
+      "whiteboard": true,
+      "projector": true,
+      "phone": true,
+      "sofa": false
+    },
+    "colour": "green"
+  },
+  {
+    "name": "Room 5",
+    "capacity": 8,
+    "equipment": {
+      "chair": true,
+      "table": true,
+      "desk": true,
+      "tv": true,
+      "whiteboard": true,
+      "projector": true,
+      "phone": true,
+      "sofa": true
+    },
+    "colour": "orange"
+  }
+]
