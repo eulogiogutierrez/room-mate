@@ -12,7 +12,9 @@
       "phone": true,
       "sofa": true
     },
-    "colour": "blue"
+    "colour": "blue",
+    "accessible": true,
+    "roomType": "open"
   },
   {
     "name": "Room 2",
@@ -27,7 +29,9 @@
       "phone": false,
       "sofa": false
     },
-    "colour": "red"
+    "colour": "red",
+    "accessible": false,
+    "roomType": "open"
   },
   {
     "name": "Room 3",
@@ -42,7 +46,9 @@
       "phone": true,
       "sofa": true
     },
-    "colour": "teal"
+    "colour": "teal",
+    "accessible": true,
+    "roomType": "closed"
   },
   {
     "name": "Room 4",
@@ -57,7 +63,9 @@
       "phone": true,
       "sofa": false
     },
-    "colour": "green"
+    "colour": "green",
+    "accessible": true,
+    "roomType": "open"
   },
   {
     "name": "Room 5",
@@ -72,6 +80,8 @@
       "phone": true,
       "sofa": true
     },
-    "colour": "orange"
+    "colour": "orange",
+    "accessible": false,
+    "roomType": "closed"
   }
 ]

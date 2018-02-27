@@ -1,0 +1,44 @@
+[
+  {
+    "roomName": "Room 1",
+    "startDate": "2018-02-28 09:00",
+    "endDate": "2018-02-28 10:00",
+    "booker": "eulogio.gutierrez@digital.hmrc.gov.uk",
+    "guests": ["caroline.hogson@digital.hmrc.gov.uk", "richy.jassal@digital.hmrc.gov.uk"]
+  },
+  {
+    "roomName": "Room 1",
+    "startDate": "2018-02-28 12:00",
+    "endDate": "2018-02-28 14:00",
+    "booker": "manish.wadhwani@digital.hmrc.gov.uk",
+    "guests": ["caroline.hogson@digital.hmrc.gov.uk", "richy.jassal@digital.hmrc.gov.uk", "eulogio.gutierrez@digital.hmrc.gov.uk"]
+  },
+  {
+    "roomName": "Room 1",
+    "startDate": "2018-02-28 09:00",
+    "endDate": "2018-02-28 10:00",
+    "booker": "eulogio.gutierrez@digital.hmrc.gov.uk",
+    "guests": ["caroline.hogson@digital.hmrc.gov.uk", "richy.jassal@digital.hmrc.gov.uk"]
+  },
+  {
+    "roomName": "Room 1",
+    "startDate": "2018-02-28 09:00",
+    "endDate": "2018-02-28 10:00",
+    "booker": "eulogio.gutierrez@digital.hmrc.gov.uk",
+    "guests": ["caroline.hogson@digital.hmrc.gov.uk", "richy.jassal@digital.hmrc.gov.uk"]
+  },
+  {
+    "roomName": "Room 1",
+    "startDate": "2018-02-28 09:00",
+    "endDate": "2018-02-28 10:00",
+    "booker": "eulogio.gutierrez@digital.hmrc.gov.uk",
+    "guests": ["caroline.hogson@digital.hmrc.gov.uk", "richy.jassal@digital.hmrc.gov.uk"]
+  },
+  {
+    "roomName": "Room 1",
+    "startDate": "2018-02-28 09:00",
+    "endDate": "2018-02-28 10:00",
+    "booker": "eulogio.gutierrez@digital.hmrc.gov.uk",
+    "guests": ["caroline.hogson@digital.hmrc.gov.uk", "richy.jassal@digital.hmrc.gov.uk"]
+  }
+]
